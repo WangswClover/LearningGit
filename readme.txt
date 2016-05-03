@@ -1,4 +1,4 @@
-my nickname in WangYiYun Class:angshenwenmy,
+my nickname in WangYiYun Class:Wangshenwenmy,
 my email address: wangshenwenmy@163.com 
 
 git is a distributed version control system.
